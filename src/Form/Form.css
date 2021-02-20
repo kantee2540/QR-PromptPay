@@ -1,0 +1,29 @@
+#form{
+    padding: 5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Sukhumvit Set Semi";
+}
+
+#form-container{
+    padding: 1.5em;
+    box-shadow: 0px 3px 15px 1px lightgray;
+    border-radius: 1em;
+    min-width: 350px;
+}
+
+#head-title{
+    font-size: 25px;
+    text-align: center;
+}
+
+.main-logo{
+    width: 200px;
+    height: 100px;
+    object-fit: contain;
+}
+
+#form-bottom{
+    margin-top: 2em;
+}
